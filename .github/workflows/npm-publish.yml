@@ -28,5 +28,5 @@ jobs:
         - name: Publish
           env:
             NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          run: yarn publish --access restricted
+          run: yarn publish --access public
 

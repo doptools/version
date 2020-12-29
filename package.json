@@ -1,7 +1,7 @@
 {
   "name": "@doptools/version",
   "description": "Module to set/modify versions",
-  "version": "0.0.0",
+  "version": "0.0.1-alpha.0",
   "author": "Dan Erdelt @myrddraall",
   "bugs": "https://github.com/doptools/version/issues",
   "dependencies": {
